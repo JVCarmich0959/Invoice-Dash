@@ -1,0 +1,3 @@
+[submodule "nextjs-dashboard"]
+	path = nextjs-dashboard
+	url = https://github.com/JVCarmich0959/Invoice-Dash
